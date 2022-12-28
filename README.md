@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
   
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerier2000&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="valerier2000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerier2000&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="valerier2000" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=valerier2000&show_icons=true&locale=en&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="valerier2000" /></p>
 
