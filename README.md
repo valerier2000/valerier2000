@@ -10,9 +10,7 @@ valerier2000/valerier2000 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="right">
 <a href="https://app.daily.dev/Valerier2000"><img src="https://api.daily.dev/devcards/bc2f6492faf942069608ff35c80dcaa4.png?r=bhn" width="400" alt="Valerie's Dev Card"/></a>
-</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valerier2000&label=Profile%20views&color=0e75b6&style=flat" alt="valerier2000" /> </p>
 
