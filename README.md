@@ -12,7 +12,7 @@ valerier2000/valerier2000 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=valerier2000&label=Profile%20views&color=0e75b6&style=flat" alt="valerier2000" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=valerier2000&label=Profile%20views&color=brightgreen&style=flat" alt="valerier2000" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,8 +33,10 @@ You can click the Preview link to take a look at your changes.
 
   
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerier2000&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="valerier2000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valerier2000&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=212428" alt="valerier2000" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=valerier2000&show_icons=true&locale=en&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" alt="valerier2000" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=valerier2000&show_icons=true&locale=en&title_color=ffffff&icon_color=34abeb&text_color=04DB4D&bg_color=212428" alt="valerier2000" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valerier2000&" alt="valerier2000" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=valerier2000&theme=soft-green" alt="valerier2000" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=valerier2000&title_color=ffffff&icon_color=34abeb&text_color=04DB4D&bg_color=212428" alt="valerier2000" /></p>
