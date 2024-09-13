@@ -4,7 +4,7 @@
 <!---
 <a align="right" href="https://app.daily.dev/Valerier2000"><img align="right" src="https://api.daily.dev/devcards/bc2f6492faf942069608ff35c80dcaa4.png?r=bhn" width="300" alt="Valerie's Dev Card"/></a>
 --->
-<a align="right" href="https://app.daily.dev/valerier2000"><img align="right" src="https://api.daily.dev/devcards/v2/15f15122e2cd4939b9653eda8a04a5d0.png?r=afe&type=default" width="356" alt="Valerie's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/valerier2000"><img align="right" src="https://api.daily.dev/devcards/v2/15f15122e2cd4939b9653eda8a04a5d0.png?r=afe&type=default" width="300" alt="Valerie's Dev Card"/></a>
 
 - 👀 I’m interested in web and iOS development
 - 🌱 I’m currently learning React and SwiftUI
