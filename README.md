@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in web and iOS development
 - 🌱 I’m currently learning React and SwiftUI
-- 📫 How to reach me **@valerier2000 EVERYWHERE (but not everywhere xd)**
+- 📫 How to reach me **valeriiarohatynska@gmail.com**
 
 <!---
 valerier2000/valerier2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
