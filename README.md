@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valerie</h1>
-<h3 align="center">A passionate frontend developer from Ukraine, living in Poland</h3>
+<h3 align="center">A passionate frontend React developer from Ukraine, living in Poland</h3>
 
 <!---
 <a align="right" href="https://app.daily.dev/Valerier2000"><img align="right" src="https://api.daily.dev/devcards/bc2f6492faf942069608ff35c80dcaa4.png?r=bhn" width="300" alt="Valerie's Dev Card"/></a>
